@@ -7,13 +7,14 @@ This repository holds all things related to the design and development of Creati
 
 Content related to the work of a Designer is stored inside the directory 'Designer'. 
 
-<more to follow>
+<<more to follow>>
 
 ## Developer
 
 Content related to the work of a Developer is stored inside the directory 'Developer'.
 
-<more to follow>
+<<more to follow>>
+
 
 === ARCHIVE THIS
 
