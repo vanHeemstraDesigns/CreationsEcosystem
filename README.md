@@ -3,6 +3,20 @@ Creations Ecosystem
 
 This repository holds all things related to the design of Creations Ecosystem.
 
+## Designer
+
+Content related to the work of a Designer is stored inside the directory 'Designer'. 
+
+<more to follow>
+
+## Developer
+
+Content related to the work of a Developer is stored inside the directory 'Developer'.
+
+<more to follow>
+
+=== ARCHIVE THIS
+
 For now, we follow the guidelines presented by Apple [https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html]
 
 As well as the Apple Style Guide which we will soon customize for Creations Ecosystem
