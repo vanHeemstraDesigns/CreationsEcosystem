@@ -7,3 +7,5 @@ For now, we follow the guidelines presented by Apple [https://developer.apple.co
 
 As well as the Apple Style Guide which we will soon customize for Creations Ecosystem
 [http://help.apple.com/asg/mac/2013/]
+
+Consider using the prefab components of Startup Framework [http://designmodo.com/startup/]
