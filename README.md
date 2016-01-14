@@ -13,7 +13,7 @@ Content related to the work of a Designer is stored inside the directory 'Design
 
 Content related to the work of a Developer is stored inside the directory 'Developer'.
  
-- [Startup User Manual](http://htmlpreview.github.com/?https://github.com/vanHeemstraDesigns/CreationsEcosystem/blob/master/Developer/manual/read/index.html){:target="_blank"}
+- [Startup User Manual](http://htmlpreview.github.com/?https://github.com/vanHeemstraDesigns/CreationsEcosystem/blob/master/Developer/manual/read/index.html)
 
 [more to follow]
 
